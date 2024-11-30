@@ -1,0 +1,6 @@
+#List of how what commands
+nah: Sends "n"
+why: Sends "y"
+sspace: Sends space key
+rereturn: Sends return key
+wait-n: Wait for n=number (Seconds)

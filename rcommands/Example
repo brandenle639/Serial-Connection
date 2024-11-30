@@ -1,0 +1,11 @@
+#Example of what a script can look like.
+command 1
+wait-5
+command 2
+nah
+command 3
+wait-3
+rereturn
+wait-2
+command 4
+why
